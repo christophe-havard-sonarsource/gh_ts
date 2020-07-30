@@ -1,4 +1,4 @@
 const hello$ = document.querySelector("#hello");
 if (hello$) {
-  hello$.textContent = "Hello World";
+  hello$.textContent = "Hello Michel";
 }
