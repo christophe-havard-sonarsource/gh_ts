@@ -1,0 +1,6 @@
+projectKey=javascriptMavenExample
+serverUrl=http://chvd.eu.ngrok.io
+serverVersion=8.4.1.35646
+dashboardUrl=http://chvd.eu.ngrok.io/dashboard?id=javascriptMavenExample
+ceTaskId=AXOgPm3hkIOuZ-FgQN1r
+ceTaskUrl=http://chvd.eu.ngrok.io/api/ce/task?id=AXOgPm3hkIOuZ-FgQN1r
